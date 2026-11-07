@@ -1,0 +1,15 @@
+{
+    {
+        "username": "admin",
+        "password": "admin123"
+    },
+
+    {
+        "username": "invalid@open.com",
+        "password": ""
+    },
+    {
+        "username": "",
+        "password": "user456"
+    }
+}
